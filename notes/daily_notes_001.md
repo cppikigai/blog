@@ -14,3 +14,16 @@ Over the 365 days, or one year, I plan to study all the fundamental algorithmic 
 * Add basic classes for working with 2D and 3D vectors. I intentionally want to use my own math library to refresh my understanding of the underlying mathematics.
 * Besides these tasks, I'm also reading [Bjarne Stroustrup's book on C++11](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) to refresh my knowledge. I'm reading it cover to cover, so this task will take around two weeks or more. I highly recommend this book for anyone looking to get acquainted with the language.
 This is just the beginning of my journey, and I'm excited to see where it takes me. Stay tuned for more updates!
+
+### March 11, 2024. Day 1.
+- Created a LeetCode account and purchased a one-year premium subscription for $159.
+- Did some setup for the repositories mentioned yesterday.
+- Begun the beginner's guide on LeetCode and solved the first 6 tasks for warm-up. They were all quite easy, so I managed to submit them without assistance.
+- Encountered a task involving bit manipulation techniques, so I decided to refresh my knowledge in this area. Added several tricks and approaches for working with bitwise operations to the common tasks repository.
+- Didn't get to the renderer yet; I'm going to start tomorrow.
+- I'm going to spend the remaining time today reading Stroustrup's C++ book (about 60 pages covering pointers, arrays, and references).
+
+**Plans for tomorrow:**
+
+- Finish the beginner's guide on LeetCode and start the bit manipulation course.
+- Begin work on the software renderer. Write implementation for creating a window and drawing lines onto the screen buffer.
