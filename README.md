@@ -9,3 +9,4 @@ I want to learn the foundation of computer graphics programming within a year, f
 
 - [March 10, 2024. Day 0.](https://github.com/cppikigai/blog/blob/main/notes/daily_notes_001.md#march-10-2024-day-0)
 - [March 11, 2024. Day 1.](https://github.com/cppikigai/blog/blob/main/notes/daily_notes_001.md#march-11-2024-day-1)
+- [March 12, 2024. Day 2.](https://github.com/cppikigai/blog/blob/main/notes/daily_notes_001.md#march-12-2024-day-2)
