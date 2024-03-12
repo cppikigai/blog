@@ -27,3 +27,18 @@ This is just the beginning of my journey, and I'm excited to see where it takes 
 
 - Finish the beginner's guide on LeetCode and start the bit manipulation course.
 - Begin work on the software renderer. Write implementation for creating a window and drawing lines onto the screen buffer.
+
+### March 12, 2024. Day 2.
+Today I mostly focused on preparing the base of my software renderer.
+
+- I added the GLFW library for creating the application window. Writing this from scratch for multiple platforms is quite laborious and not very engaging for me. So, I decided not to reinvent the wheel and opted for a good existing library.
+- I also added Glad for simplified interaction with the OpenGL API. The files are generated directly on the [website](https://glad.dav1d.de/), which allows easy configuration of the required version and extensions.
+- I configured the project and dependencies using CMake to avoid tying it to any specific IDE and keep it as simple as possible.
+- Additionally, I implemented a simple rendering of a textured full-screen quad, and now it's possible to draw lines onto it based on coordinates. This is still a draft version. I just wanted to quickly get something working.
+- Towards the end of the day, I completed a beginner course on LeetCode.
+
+**Plans for tomorrow:**
+
+- I want to continue refreshing my memory on bitwise manipulation tricks within LeetCode problems.
+- I'll try to refactor the rendering to the texture on the screen.
+- Additionally, I plan to write my own loader for object meshes, which I didn't have time to do today. I could use [Assimp](https://github.com/assimp/assimp), but I want to write my own implementation to remember how vertices and triangles are stored in the obj format.
