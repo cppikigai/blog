@@ -42,3 +42,6 @@ Today I mostly focused on preparing the base of my software renderer.
 - I want to continue refreshing my memory on bitwise manipulation tricks within LeetCode problems.
 - I'll try to refactor the rendering to the texture on the screen.
 - Additionally, I plan to write my own loader for object meshes, which I didn't have time to do today. I could use [Assimp](https://github.com/assimp/assimp), but I want to write my own implementation to remember how vertices and triangles are stored in the obj format.
+
+### March 13, 2024. Day 3.
+Today, by chance, I spent almost all my free time on one simple problem on LeetCode. I spent a long time thinking about how to find the optimal solution. As a result, all my plans got disrupted. Tomorrow, I'll be doing what I had planned to do today.
