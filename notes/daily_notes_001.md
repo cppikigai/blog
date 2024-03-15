@@ -50,3 +50,8 @@ Today, by chance, I spent almost all my free time on one simple problem on LeetC
 Today, I decided to focus only on solving problems on LeetCode. I'm taking a course there covering the top 150 interview questions. I've set a goal to solve at least 3 problems per day. Right now, I'm taking the easier problems, but progress isn't very fast, but I'm starting to get the hang of it. I think it will get easier in two or three weeks.
 
 ### March 15, 2024. Day 5.
+I'm still solving problems on LeetCode and started reading the book [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850). I also managed to solve 4 more problems.
+
+**Plans for tomorrow:**
+- I'll dedicate the day to implementing model loading and wireframe rendering.
+- Also, I'll continue reading Stroustrup's book on C++11.
