@@ -55,3 +55,4 @@ I'm still solving problems on LeetCode and started reading the book [Cracking th
 **Plans for tomorrow:**
 - I'll dedicate the day to implementing model loading and wireframe rendering.
 - Also, I'll continue reading Stroustrup's book on C++11.
+- Read about the KMP algorithm for a better way to solve problem 28, "Find the Index of the First Occurrence in a String."
