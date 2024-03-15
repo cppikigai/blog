@@ -45,3 +45,8 @@ Today I mostly focused on preparing the base of my software renderer.
 
 ### March 13, 2024. Day 3.
 Today, by chance, I spent almost all my free time on one simple problem on LeetCode. I spent a long time thinking about how to find the optimal solution. As a result, all my plans got disrupted. Tomorrow, I'll be doing what I had planned to do today.
+
+### March 14, 2024. Day 4.
+Today, I decided to focus only on solving problems on LeetCode. I'm taking a course there covering the top 150 interview questions. I've set a goal to solve at least 3 problems per day. Right now, I'm taking the easier problems, but progress isn't very fast, but I'm starting to get the hang of it. I think it will get easier in two or three weeks.
+
+### March 15, 2024. Day 5.
