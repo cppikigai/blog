@@ -56,3 +56,19 @@ I'm still solving problems on LeetCode and started reading the book [Cracking th
 - I'll dedicate the day to implementing model loading and wireframe rendering.
 - Also, I'll continue reading Stroustrup's book on C++11.
 - Read about the KMP algorithm for a better way to solve problem 28, "Find the Index of the First Occurrence in a String."
+
+### March 16, 2024. Day 6.
+So, my plan for the day is to cover all the areas in which I'm developing:
+
+- English
+- Algorithms
+- Rendering engine
+- Books about C++ and rendering
+  
+I want to solve 1000 problems within a year.
+Read 10 books about C++ and rendering.
+Write software renderer and engine using modern graphics APIs.
+Also, learn 5000 English words.
+
+And I usually have no more than 4 hours a day. So, I'll try to fit everything within these limits.
+For example, an hour for each direction. Today I'll check approximate measurements of how much I can accomplish.
