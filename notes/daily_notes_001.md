@@ -72,3 +72,12 @@ Also, learn 5000 English words.
 
 And I usually have no more than 4 hours a day. So, I'll try to fit everything within these limits.
 For example, an hour for each direction. Today I'll check approximate measurements of how much I can accomplish.
+
+### March 17, 2024. Day 7.
+Today and yesterday, I gathered approximate statistics on the speed of various activities in my learning.
+
+- Solving 4-5 problems, including preparing tests, takes on average 1 hour 40 minutes. It's hard to do it any faster. Ideally, I want to finish 4 tasks in an hour. That's what I'm aiming for.
+- Spending an hour reading technical literature allows me to study and read no more than 15 pages.
+- Spending an hour studying English flashcards allows me to go through 250-260 cards. On average, this adds about 10 new words.
+
+So, that's the statistics. Ideally, I'd like to read 20 pages, solve 4 tasks, and go through 250 flashcards per day, all while spending a total of 3 hours, leaving time for pet-projects.
