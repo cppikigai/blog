@@ -16,3 +16,4 @@ I want to learn the foundation of computer graphics programming within a year, f
 | 4 | March 14, 2024. | [LeetCode 4 problems](https://github.com/cppikigai/blog/blob/main/notes/daily_notes_001.md#march-14-2024-day-4) 
 | 5 | March 15, 2024. | [LeetCode 4 problems](https://github.com/cppikigai/blog/blob/main/notes/daily_notes_001.md#march-15-2024-day-5) 
 | 6 | March 16, 2024. | [About daily routines](https://github.com/cppikigai/blog/blob/main/notes/daily_notes_001.md#march-16-2024-day-6)
+| 7 | March 17, 2024. | [Statistics gathering on learning activities](https://github.com/cppikigai/blog/blob/main/notes/daily_notes_001.md#march-17-2024-day-7)
